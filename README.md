@@ -44,4 +44,4 @@ To complete the setup:
 
 ● Saved and committed the changes directly to the main branch
 
-● This served as my first commit and confiremdd that the repository was working correctly.
+● This served as my first commit and confirmed that the repository was working correctly.
